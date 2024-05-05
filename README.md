@@ -7,6 +7,10 @@
 
 Welcome to the Gemini Text Generator App! This project demonstrates how to build and deploy a Node.js application that interfaces with the Google Gemini API to generate text based on user input. Follow the steps below to set up and run your own instance of this application.
 
+## see the testing images
+gemini-image2.png
+gemini-image1.png
+
 ## Prerequisites
 
 Before you begin, make sure you have the following installed:
