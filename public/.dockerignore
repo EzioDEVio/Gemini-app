@@ -1,0 +1,27 @@
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Directory for locally stored configuration files
+config/
+
+# Git directory
+.git/
+
+# Docker files
+Dockerfile
+.dockerignore
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
